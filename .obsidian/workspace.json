@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +137,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2f887b1b5e7de3c",
+  "active": "c098a14e5d85b630",
   "lastOpenFiles": [
-    "计算机/未命名.md",
+    "计算机/操作系统/未命名.md",
+    "计算机/操作系统/A.md",
     "计算机/操作系统",
     "未命名.md",
     "计算机"
