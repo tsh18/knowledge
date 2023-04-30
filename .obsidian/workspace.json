@@ -11,8 +11,30 @@
             "id": "a2f887b1b5e7de3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "47a96304445e7731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04043fa4ea9d9257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +143,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,12 +165,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c098a14e5d85b630",
+  "active": "c0586b92b61a5c42",
   "lastOpenFiles": [
-    "计算机/操作系统/未命名.md",
+    "img/~ipe.tmp",
+    "img/pipe.JPG",
+    "img/1.JPG",
+    "计算机课程/6.1810 Fall2022/Lab Xv6 and Unix utilities.md",
+    "img/~.tmp",
+    "picture/1.jpg",
+    "img",
+    "计算机课程/未命名",
+    "Pasted image 20230430144536.png",
+    "Pasted image 20230430144454.png",
+    "Pasted image 20230430144349.png",
+    "picture.md",
+    "picture/~获.tmp",
+    "picture",
+    "新建文件夹",
+    "计算机课程/6.1810 Fall2022",
     "计算机/操作系统/A.md",
+    "计算机/操作系统/未命名.md",
     "计算机/操作系统",
     "未命名.md",
-    "计算机"
+    "计算机课程"
   ]
 }
